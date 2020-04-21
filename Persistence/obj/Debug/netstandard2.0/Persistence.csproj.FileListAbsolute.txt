@@ -1,0 +1,9 @@
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

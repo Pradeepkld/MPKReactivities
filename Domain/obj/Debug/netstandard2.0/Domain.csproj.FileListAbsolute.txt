@@ -1,0 +1,6 @@
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb

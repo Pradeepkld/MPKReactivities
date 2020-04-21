@@ -1,0 +1,13 @@
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Application.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Domain.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Persistence.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Application.pdb
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Domain.pdb
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\bin\Debug\netstandard2.0\Persistence.pdb
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+D:\Projects\ASP.NET Practice\dotnetreactapp\SourceCode\Section22\Reactivities\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
